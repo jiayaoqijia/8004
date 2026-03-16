@@ -9,8 +9,9 @@ Vision: Build the definitive skill and tooling hub for the ERC-8004 agent econom
 - [ ] Add 8004scan webhook integration skill
 - [ ] Publish skills to ClawHub registry
 
-## Integration
+## SDK & Integration
 
+- [ ] Integrate [Agent0 SDK](https://github.com/agent0labs/agent0-ts) wrappers into skills
 - [ ] MCP server for 8004scan API (structured tool access)
 - [ ] A2A agent card for 8004 ecosystem services
 - [ ] x402 payment readiness checker skill
@@ -20,6 +21,7 @@ Vision: Build the definitive skill and tooling hub for the ERC-8004 agent econom
 - [ ] Architecture decision records
 - [ ] Chain deployment guide for new networks
 - [ ] Trust model deep-dive with real-world examples
+- [ ] Agent0 SDK usage examples and recipes
 
 ## Community
 

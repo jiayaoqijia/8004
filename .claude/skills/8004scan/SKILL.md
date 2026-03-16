@@ -12,7 +12,7 @@ metadata:
         - EIGHTSCAN_API_KEY
     primaryEnv: EIGHTSCAN_API_KEY
     emoji: "🔍"
-    homepage: https://www.8004scan.io/developers
+    homepage: https://www.8004scan.io/developers/docs
 ---
 
 # 8004scan — Agent Discovery API Skill

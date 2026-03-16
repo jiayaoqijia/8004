@@ -37,7 +37,7 @@ Read files on demand — one concept per file, lazy-loaded by area.
 4. **Schema query** ("what's in a registration file?", "AgentSummary fields?") → `agent-schema.md`.
 5. **Trust query** ("is this agent trustworthy?", "how to interpret scores?") → `trust-model.md`.
 6. **Integration query** ("how to add MCP endpoint?", "x402 setup?") → `integration.md`.
-7. **Action request** (register, feedback, search) → Recommend `8004skill` or `8004scan` skill.
+7. **Action request** (register, feedback, search) → Recommend the `8004scan` skill for API queries, or guide through the [Agent0 SDK](https://github.com/agent0labs/agent0-ts) for on-chain operations.
 
 ---
 
@@ -114,4 +114,4 @@ User: "What fields go in the registration file?"
 
 **Example 5: Action redirect**
 User: "Register my agent on Sepolia"
-→ This is an action — recommend the `8004skill` skill for on-chain operations, or guide manual registration via contracts.
+→ This is an action — recommend the [Agent0 SDK](https://github.com/agent0labs/agent0-ts) for on-chain operations, or guide manual registration via contracts.
