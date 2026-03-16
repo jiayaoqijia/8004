@@ -51,12 +51,14 @@ Be kind, be respectful. We are all here to build useful things for the ERC-8004 
 
 ### Skill Development
 
-Skills follow [ClawHub](https://clawhub.ai) standards:
+Skills follow [ClawHub](https://clawhub.ai) standards. See [CONTRIBUTING-SKILLS.md](CONTRIBUTING-SKILLS.md) for the full guide and [SKILL-CHECKLIST.md](SKILL-CHECKLIST.md) for the quality checklist.
 
+Key conventions:
 - `SKILL.md` with YAML frontmatter (name, description, version, metadata)
 - Supporting reference files in `references/` directory
 - Text-based files only (no binaries)
 - Lazy-load references via `{baseDir}/references/` pattern
+- One concept per reference file, under 300 lines each
 
 ### Keeping Up to Date
 
