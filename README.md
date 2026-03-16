@@ -36,6 +36,10 @@ ERC-8004 protocol reference covering all three registries, agent schema, 45+ sup
 
 Wraps the [8004scan Public API](https://www.8004scan.io/api/v1/public/docs/openapi.json) for agent discovery, semantic search, statistics, and feedback queries. Uses `curl` + `jq`.
 
+### `8004scan-webhooks` — Real-Time Events
+
+Subscribe to 8004scan webhook events — agent registrations, feedback, validations, and stars. Covers webhook CRUD, HMAC-SHA256 verification, and delivery monitoring.
+
 ### Installation
 
 ```bash
@@ -72,7 +76,7 @@ Optional `X-API-Key` header for elevated rate limits. See [Developer Docs](https
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines. To create a new skill, see [CONTRIBUTING-SKILLS.md](CONTRIBUTING-SKILLS.md) and [SKILL-CHECKLIST.md](SKILL-CHECKLIST.md).
 
 ## Security
 
