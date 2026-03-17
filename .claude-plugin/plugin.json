@@ -10,5 +10,5 @@
   "repository": "https://github.com/jiayaoqijia/8004",
   "license": "AGPL-3.0",
   "keywords": ["erc-8004", "blockchain", "ai-agents", "8004scan", "web3"],
-  "skills": ".claude/skills"
+  "skills": "./.claude/skills"
 }
