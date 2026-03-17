@@ -1,0 +1,14 @@
+{
+  "name": "8004scan-skill",
+  "version": "1.0.0",
+  "description": "ERC-8004 protocol knowledge, 8004scan API integration, and webhook management skills for Claude Code",
+  "author": {
+    "name": "jiayaoqijia",
+    "url": "https://github.com/jiayaoqijia"
+  },
+  "homepage": "https://www.8004scan.io",
+  "repository": "https://github.com/jiayaoqijia/8004",
+  "license": "AGPL-3.0",
+  "keywords": ["erc-8004", "blockchain", "ai-agents", "8004scan", "web3"],
+  "skills": ".claude/skills"
+}
