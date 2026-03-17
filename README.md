@@ -49,8 +49,16 @@ Subscribe to 8004scan webhook events for real-time notifications. Covers webhook
 
 ### Installation
 
+**Via Claude Code Plugin (recommended):**
+
 ```bash
-# Clone and use with Claude Code
+/plugin marketplace add jiayaoqijia/8004
+/plugin install 8004scan-skill@8004scan
+```
+
+**Manual:**
+
+```bash
 git clone https://github.com/jiayaoqijia/8004.git
 cd 8004
 # Skills are auto-detected from .claude/skills/

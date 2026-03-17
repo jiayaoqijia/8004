@@ -1,0 +1,24 @@
+{
+  "name": "8004scan",
+  "owner": {
+    "name": "jiayaoqijia",
+    "url": "https://github.com/jiayaoqijia"
+  },
+  "metadata": {
+    "description": "ERC-8004 ecosystem skills for Claude Code — protocol knowledge, agent discovery API, and webhook management",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "8004scan-skill",
+      "source": "./",
+      "description": "ERC-8004 protocol knowledge, 8004scan API, and webhook skills",
+      "version": "1.0.0",
+      "author": {
+        "name": "jiayaoqijia"
+      },
+      "category": "blockchain",
+      "tags": ["erc-8004", "ai-agents", "8004scan", "web3", "blockchain"]
+    }
+  ]
+}
